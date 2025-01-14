@@ -3,8 +3,6 @@
 🎓 Computer Science Studant at **University of Brasília (UnB)**.  
 ⚔️ Passionate about information security, offensive security and challenges in **cybersecurity**.
 
----
-
 ## 🔧 Technologies and Tools
 
 - **Programming Languages**:
@@ -36,8 +34,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Shodan](https://img.shields.io/badge/Shodan-211F27?style=for-the-badge&logo=shodan&logoColor=red)](https://www.shodan.io/)
-
----
 
 ## 📫 How to reach me
 
