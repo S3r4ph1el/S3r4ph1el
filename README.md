@@ -15,11 +15,11 @@
 - **Tools**:
 
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![FFUF](https://img.shields.io/badge/FFUF-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/ffuf/ffuf)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7A00?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 [![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)](https://ghidra-sre.org/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![CyberChef](https://img.shields.io/badge/CyberChef-20A53A?style=for-the-badge&logo=codechef&logoColor=white)](https://gchq.github.io/CyberChef/)
-[![FFUF](https://img.shields.io/badge/FFUF-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/ffuf/ffuf)
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=lock&logoColor=white)](https://www.openwall.com/john/)
 [![Hydra](https://img.shields.io/badge/Hydra-008000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
    
