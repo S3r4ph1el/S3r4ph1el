@@ -22,18 +22,7 @@
 [![CyberChef](https://img.shields.io/badge/CyberChef-20A53A?style=for-the-badge&logo=codechef&logoColor=white)](https://gchq.github.io/CyberChef/)
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=lock&logoColor=white)](https://www.openwall.com/john/)
 [![Hydra](https://img.shields.io/badge/Hydra-008000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
-   
-- **Operating Systems**:
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
   
-- **Others**:
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Shodan](https://img.shields.io/badge/Shodan-211F27?style=for-the-badge&logo=shodan&logoColor=red)](https://www.shodan.io/)
-
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-teles)
