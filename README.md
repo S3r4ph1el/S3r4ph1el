@@ -1,7 +1,7 @@
 # Hi, I'm Enzo Teles!
 
 🎓 Computer Science Studant at **University of Brasília (UnB)**.  
-🎓 Cyber Defense: Ethical Hacking, Forensics and DevSecOps Studant at **FIAP**.  
+🎓 Cyber Security: Ethical Hacking, Forensics and DevSecOps Studant at **FIAP**.  
 ⚔️ Passionate about offensive security and challenges in cybersecurity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-teles)
