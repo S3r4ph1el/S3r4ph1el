@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=960018&center=true&vCenter=true&width=600&lines=%3E+Initialising+Offensive+Protocols...;%3E+Targeting%3A+Web/Apps%2C+AI%2C+Infrastructure.;%3E+Finding+the+unseen.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=960018&center=true&vCenter=true&width=700&lines=%3E+Initialising+Offensive+Protocols...;%3E+Targeting%3A+Web/Apps%2C+Mobile%2C+AI%2C+Infrastructure.;%3E+Finding+the+unseen.">
 </a>
 
   <br>
