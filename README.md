@@ -12,9 +12,6 @@
     <a href="https://app.hackthebox.com/public/users/2124077">
       <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" alt="Hack The Box">
     </a>
-    <a href="https://tryhackme.com/r/p/S3r4ph1el">
-      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-    </a>
     <a href="https://app.hackingclub.com/profile/user/21053">
       <img src="https://img.shields.io/badge/HACKING%20CLUB-7d2ae8?style=for-the-badge&logo=icloud&logoColor=white" alt="Hacking Club">
     </a>
