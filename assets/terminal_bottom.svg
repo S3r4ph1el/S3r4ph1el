@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 186" width="720" height="186" fill="none">
+<style>
+text{font-family:'DejaVu Sans Mono','Fira Code','JetBrains Mono',monospace;font-size:22px;dominant-baseline:hanging;white-space:pre;}
+.cur{fill:#ffffff;}
+.l0{clip-path:inset(0 100% 0 0);animation:r0 8.17s linear 2.4s infinite;}
+@keyframes r0{0%,0.0%{clip-path:inset(0 101% 0 0)}14.08%,100%{clip-path:inset(0 0 0 0)}}
+.c0{opacity:0;animation:cm0 8.17s linear 2.4s infinite;}
+@keyframes cm0{0%,0.0%{opacity:0;transform:translateX(0)}0.01%{opacity:1;transform:translateX(0)}14.08%{opacity:1;transform:translateX(299px)}14.09%,100%{opacity:0;transform:translateX(299px)}}
+.l1{clip-path:inset(0 100% 0 0);animation:r1 8.17s linear 2.4s infinite;}
+@keyframes r1{0%,18.36%{clip-path:inset(0 101% 0 0)}19.46%,100%{clip-path:inset(0 0 0 0)}}
+.l2{clip-path:inset(0 100% 0 0);animation:r2 8.17s linear 2.4s infinite;}
+@keyframes r2{0%,30.48%{clip-path:inset(0 101% 0 0)}49.45%,100%{clip-path:inset(0 0 0 0)}}
+.c2{opacity:0;animation:cm2 8.17s linear 2.4s infinite;}
+@keyframes cm2{0%,30.48%{opacity:0;transform:translateX(0)}30.49%{opacity:1;transform:translateX(0)}49.45%{opacity:1;transform:translateX(403px)}49.46%,100%{opacity:0;transform:translateX(403px)}}
+.l3{clip-path:inset(0 100% 0 0);animation:r3 8.17s linear 2.4s infinite;}
+@keyframes r3{0%,53.73%{clip-path:inset(0 101% 0 0)}54.83%,100%{clip-path:inset(0 0 0 0)}}
+.l4{clip-path:inset(0 100% 0 0);animation:r4 8.17s linear 2.4s infinite;}
+@keyframes r4{0%,67.07%{clip-path:inset(0 101% 0 0)}68.18%,100%{clip-path:inset(0 0 0 0)}}
+.c4{opacity:0;animation:cm4 8.17s steps(1,end) 2.4s infinite;}
+@keyframes cm4{0%,68.18%{opacity:0}74.3%{opacity:1}80.42%{opacity:0}86.54%{opacity:1}92.66%{opacity:0}98.78%{opacity:1}100%{opacity:0}}}
+</style>
+<g class="l0"><text y="8" textLength="299" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#e23650">s3r4ph1el@dux</tspan><tspan x="181" fill="#ffffff">:</tspan><tspan x="194" fill="#e23650">~</tspan><tspan x="207" fill="#ffffff">$ </tspan><tspan x="233" fill="#ffffff">whoami</tspan></text></g>
+<g class="l1"><text y="42" textLength="338" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">offensive security analyst</tspan></text></g>
+<g class="l2"><text y="76" textLength="403" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#e23650">s3r4ph1el@dux</tspan><tspan x="181" fill="#ffffff">:</tspan><tspan x="194" fill="#e23650">~</tspan><tspan x="207" fill="#ffffff">$ </tspan><tspan x="233" fill="#ffffff">./targeting.sh</tspan></text></g>
+<g class="l3"><text y="110" textLength="468" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">[+] web/api · mobile · infra · ai-ml</tspan></text></g>
+<g class="l4"><text y="144" textLength="286" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">[+] finding the unseen</tspan></text></g>
+<rect class="cur c0" x="12" y="10" width="11" height="22" rx="1"/>
+<rect class="cur c2" x="12" y="78" width="11" height="22" rx="1"/>
+<rect class="cur c4" x="298" y="146" width="11" height="22" rx="1"/>
+</svg>

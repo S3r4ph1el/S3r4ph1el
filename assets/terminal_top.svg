@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 50" width="720" height="50" fill="none">
+<style>
+text{font-family:'DejaVu Sans Mono','Fira Code','JetBrains Mono',monospace;font-size:22px;dominant-baseline:hanging;white-space:pre;}
+.cur{fill:#ffffff;}
+.l0{clip-path:inset(0 100% 0 0);animation:r0 2.25s linear 0.0s 1 forwards;}
+@keyframes r0{0%,0.0%{clip-path:inset(0 101% 0 0)}82.22%,100%{clip-path:inset(0 0 0 0)}}
+.c0{opacity:0;animation:cm0 2.25s linear 0.0s 1 forwards;}
+@keyframes cm0{0%,0.0%{opacity:0;transform:translateX(0)}0.01%{opacity:1;transform:translateX(0)}82.22%{opacity:1;transform:translateX(481px)}82.23%,100%{opacity:0;transform:translateX(481px)}}
+</style>
+<g class="l0"><text y="8" textLength="481" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">&gt; initializing offensive protocols...</tspan></text></g>
+<rect class="cur c0" x="12" y="10" width="11" height="22" rx="1"/>
+</svg>
