@@ -20,7 +20,7 @@ text{font-family:'DejaVu Sans Mono','Fira Code','JetBrains Mono',monospace;font-
 @keyframes cm4{0%,68.18%{opacity:0}74.3%{opacity:1}80.42%{opacity:0}86.54%{opacity:1}92.66%{opacity:0}98.78%{opacity:1}100%{opacity:0}}}
 </style>
 <g class="l0"><text y="8" textLength="299" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#e23650">s3r4ph1el@dux</tspan><tspan x="181" fill="#ffffff">:</tspan><tspan x="194" fill="#e23650">~</tspan><tspan x="207" fill="#ffffff">$ </tspan><tspan x="233" fill="#ffffff">whoami</tspan></text></g>
-<g class="l1"><text y="42" textLength="338" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">offensive security analyst</tspan></text></g>
+<g class="l1"><text y="42" textLength="338" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">offensive security analyst · security research</tspan></text></g>
 <g class="l2"><text y="76" textLength="403" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#e23650">s3r4ph1el@dux</tspan><tspan x="181" fill="#ffffff">:</tspan><tspan x="194" fill="#e23650">~</tspan><tspan x="207" fill="#ffffff">$ </tspan><tspan x="233" fill="#ffffff">./targeting.sh</tspan></text></g>
 <g class="l3"><text y="110" textLength="468" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">[+] web/api · mobile · infra · ai-ml</tspan></text></g>
 <g class="l4"><text y="144" textLength="286" lengthAdjust="spacingAndGlyphs"><tspan x="12" fill="#ffffff">[+] finding the unseen</tspan></text></g>
